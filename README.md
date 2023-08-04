@@ -16,7 +16,7 @@ TicTacToe Cross Nought application developed using SwiftUI.
 SwiftUI
 
 ## Features
-- Fitur counter win
+- Counter win
 - Alert win
 - Alert draw
 
